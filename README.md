@@ -1,2 +1,3 @@
 # Mars_Rover_EDL
 This project simulates rover behavior on the Martian environment. 
+Our team was tasked with creating functions to analyze the rover and then creating the fastest rover starting from entry, landing, and driving on the terrain. The project was phased system modeling (simulating subsystems), dynamical modeling (Simulating rover response on Martian terrain), landing simulation (Entry, Landing Descent), and optimization (Numerical optimization). This project was worked on with my groupmates Austin Shires, Matthew Willet, and code from the NASA Numerical Methods team for the Curiosity Rover. Our team placed 5th over for best optimized rover. 
